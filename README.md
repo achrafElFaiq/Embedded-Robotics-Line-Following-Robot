@@ -1,4 +1,4 @@
-# Embedded Robotics: Line-Following and Soccer Robot
+# Embedded Robotics: Line-Following-Robot
 
 ## Overview
 
